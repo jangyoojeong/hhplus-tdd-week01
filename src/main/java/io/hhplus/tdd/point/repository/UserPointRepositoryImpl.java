@@ -13,9 +13,7 @@ public class UserPointRepositoryImpl implements UserPointRepository {
 
     @Override
     public UserPoint selectById(Long id) {
-        UserPoint userPoint = userPointTable.selectById(id);
-       // return userPoint.toDomain();
-        return userPoint;
+        return userPointTable.selectById(id);
     }
 
     @Override

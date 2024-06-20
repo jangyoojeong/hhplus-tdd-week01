@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7f063f5-ccc3-4a1e-80e6-ce79c126edaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/entity/UserPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/repository/PointHistoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/repository/PointHistoryRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/repository/UserPointRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/repository/UserPointRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/service/PointService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/service/impl/PointServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/hhplus/tdd/point/PointConcurrencyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/hhplus/tdd/point/PointControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/hhplus/tdd/point/service/PointServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ktlint-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/database/PointHistoryTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/database/PointHistoryTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/database/UserPointTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/database/UserPointTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/PointController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/PointController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/PointHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/entity/PointHistory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/UserPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/repository/UserPointRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/point/repository/UserPointRepositoryImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +99,7 @@
       <recent name="io.hhplus.tdd.point" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PointServiceTest.historyTest_유저가_있을_경우">
+  <component name="RunManager" selected="JUnit.PointServiceTest.pointTest_포인트_리턴확인">
     <configuration name="PointServiceTest.chargeTest_충전_내역_히스토리_추가_확인" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hhplus-tdd-jvm.test" />
       <extension name="coverage">
@@ -149,6 +127,22 @@
       <option name="PACKAGE_NAME" value="io.hhplus.tdd.point.service" />
       <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.point.service.PointServiceTest" />
       <option name="METHOD_NAME" value="historyTest_유저가_있을_경우" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointServiceTest.pointTest_포인트_리턴확인" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hhplus-tdd-jvm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hhplus.tdd.point.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hhplus.tdd.point.service" />
+      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.point.service.PointServiceTest" />
+      <option name="METHOD_NAME" value="pointTest_포인트_리턴확인" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -186,22 +180,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointServiceTest.useTest_기존_포인트가_사용_포인트_보다_작을_경우_예외_발생" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hhplus-tdd-jvm.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.hhplus.tdd.point.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="io.hhplus.tdd.point.service" />
-      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.point.service.PointServiceTest" />
-      <option name="METHOD_NAME" value="useTest_기존_포인트가_사용_포인트_보다_작을_경우_예외_발생" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TddApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="hhplus-tdd-jvm.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="io.hhplus.tdd.TddApplication" />
@@ -211,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PointServiceTest.pointTest_포인트_리턴확인" />
         <item itemvalue="JUnit.PointServiceTest.historyTest_유저가_있을_경우" />
         <item itemvalue="JUnit.PointServiceTest.useTest_사용_내역_히스토리_추가_확인" />
         <item itemvalue="JUnit.PointServiceTest.useTest_사용_포인트_0원보다_작을_경우_예외_발생" />
         <item itemvalue="JUnit.PointServiceTest.chargeTest_충전_내역_히스토리_추가_확인" />
-        <item itemvalue="JUnit.PointServiceTest.useTest_기존_포인트가_사용_포인트_보다_작을_경우_예외_발생" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +213,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718848721726</updated>
-      <workItem from="1718848722894" duration="25883000" />
+      <workItem from="1718848722894" duration="27152000" />
     </task>
     <servers />
   </component>
