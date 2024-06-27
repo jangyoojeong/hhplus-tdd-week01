@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7f063f5-ccc3-4a1e-80e6-ce79c126edaa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/database/PointHistoryTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/hhplus/tdd/database/PointHistoryTable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2i7jt2etoCn6xBvbw2LNaD5sdbF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.PointConcurrencyTest.chargeAndUseTest_동일유저_동시성_테스트_포인트_충전_및_사용 (1).executor": "Run",
+    "JUnit.PointConcurrencyTest.chargeAndUseTest_동일유저_동시성_테스트_포인트_충전_및_사용.executor": "Run",
+    "JUnit.PointConcurrencyTest.chargeAndUseTest_동일유저_동시성_테스트_포인트_충전_및_사용1.executor": "Run",
+    "JUnit.PointConcurrencyTest.chargeAndUseTest_동일유저_동시성_테스트_포인트_충전_및_사용_포인트_모자를_경우_예외_발생.executor": "Run",
+    "JUnit.PointConcurrencyTest.chargeTest_동일_유저_요청_동시성_테스트.executor": "Run",
+    "JUnit.PointConcurrencyTest.useTest_포인트_사용_확인.executor": "Run",
+    "JUnit.PointControllerTest.chargeTest_특정_유저의_포인트를_충전하는_기능_테스트.executor": "Run",
+    "JUnit.PointControllerTest.pointTest.executor": "Run",
+    "JUnit.PointControllerTest.useTest_특정_유저의_포인트를_사용하는_기능_테스트.executor": "Run",
+    "JUnit.PointControllerTest2.pointTest.executor": "Run",
+    "JUnit.PointServiceConcurrencyTest.chargeAndUseTest_동일유저_동시성_테스트_포인트_충전_및_사용.executor": "Run",
+    "JUnit.PointServiceConcurrencyTest.concurrencyTest_chargeAndUse.executor": "Run",
+    "JUnit.PointServiceTest.chargeTest_충전_내역_히스토리_추가_확인.executor": "Run",
+    "JUnit.PointServiceTest.chargeTest_충전_포인트_0원보다_작을_경우_예외_발생.executor": "Run",
+    "JUnit.PointServiceTest.chargeTest_포인트_충전_확인.executor": "Run",
+    "JUnit.PointServiceTest.historyTest_유저가_없을_경우.executor": "Run",
+    "JUnit.PointServiceTest.historyTest_유저가_있을_경우.executor": "Run",
+    "JUnit.PointServiceTest.pointTest_유저가_없을_경우.executor": "Run",
+    "JUnit.PointServiceTest.pointTest_포인트_리턴확인.executor": "Run",
+    "JUnit.PointServiceTest.useTest_기존_포인트가_사용_포인트_보다_작을_경우_예외_발생.executor": "Run",
+    "JUnit.PointServiceTest.useTest_사용_내역_히스토리_추가_확인.executor": "Run",
+    "JUnit.PointServiceTest.useTest_사용_포인트_0원보다_작을_경우_예외_발생.executor": "Run",
+    "JUnit.PointServiceTest.useTest_포인트_사용_확인.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "week01",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gldjf/IdeaProjects/hhplus-tdd-jvm-java/hhplus-tdd-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.hhplus.tdd.point.service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="io.hhplus.tdd.point" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.hhplus.tdd.point.service" />
+      <recent name="io.hhplus.tdd.point" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PointServiceTest.historyTest_유저가_없을_경우">
+    <configuration name="PointServiceTest.historyTest_유저가_있을_경우" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hhplus-tdd-jvm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hhplus.tdd.point.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hhplus.tdd.point.service" />
+      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.point.service.PointServiceTest" />
+      <option name="METHOD_NAME" value="historyTest_유저가_있을_경우" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointServiceTest.historyTest_유저가_없을_경우" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hhplus-tdd-jvm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hhplus.tdd.point.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hhplus.tdd.point.service" />
+      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.point.service.PointServiceTest" />
+      <option name="METHOD_NAME" value="historyTest_유저가_없을_경우" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointServiceTest.pointTest_포인트_리턴확인" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hhplus-tdd-jvm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hhplus.tdd.point.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hhplus.tdd.point.service" />
+      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.point.service.PointServiceTest" />
+      <option name="METHOD_NAME" value="pointTest_포인트_리턴확인" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointServiceTest.useTest_사용_포인트_0원보다_작을_경우_예외_발생" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hhplus-tdd-jvm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hhplus.tdd.point.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hhplus.tdd.point.service" />
+      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.point.service.PointServiceTest" />
+      <option name="METHOD_NAME" value="useTest_사용_포인트_0원보다_작을_경우_예외_발생" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointServiceTest.useTest_사용_내역_히스토리_추가_확인" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hhplus-tdd-jvm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.hhplus.tdd.point.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.hhplus.tdd.point.service" />
+      <option name="MAIN_CLASS_NAME" value="io.hhplus.tdd.point.service.PointServiceTest" />
+      <option name="METHOD_NAME" value="useTest_사용_내역_히스토리_추가_확인" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TddApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hhplus-tdd-jvm.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.hhplus.tdd.TddApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PointServiceTest.historyTest_유저가_없을_경우" />
+        <item itemvalue="JUnit.PointServiceTest.pointTest_포인트_리턴확인" />
+        <item itemvalue="JUnit.PointServiceTest.historyTest_유저가_있을_경우" />
+        <item itemvalue="JUnit.PointServiceTest.useTest_사용_내역_히스토리_추가_확인" />
+        <item itemvalue="JUnit.PointServiceTest.useTest_사용_포인트_0원보다_작을_경우_예외_발생" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7f063f5-ccc3-4a1e-80e6-ce79c126edaa" name="Changes" comment="" />
+      <created>1718848721726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718848721726</updated>
+      <workItem from="1718848722894" duration="27609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,6 +1,9 @@
 package io.hhplus.tdd.database;
 
-import io.hhplus.tdd.point.UserPoint;
+import io.hhplus.tdd.point.PointController;
+import io.hhplus.tdd.point.entity.UserPoint;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;
