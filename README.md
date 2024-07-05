@@ -5,7 +5,7 @@
 ## [ Chapter 1-1 ] Test Driven Development
 
 
-### 과제
+### :black_nib: 과제
 [ point 패키지의 TODO 와 테스트코드를 작성해주세요. ]
 * PATCH  `/point/{id}/charge` : 포인트를 충전한다.
 * PATCH `/point/{id}/use` : 포인트를 사용한다.
@@ -56,7 +56,7 @@
   > Stub 의 장점 = UserRepository 라는 걸 Stub 한 UserFakeRepository 라는 구현체가 있을 경우 UserRepository 를 쓰는 모든 단위 테스트에서 가져다 쓸 수 있다.
 
 
-#### TDD 접근법 ?
+#### :pencil2: TDD 접근법 ?
 1. 요구사항 분석 및 TD 작성 ( ~~ 면 안된다 )
    ex) 유저가 잔액이 부족하면 주문이 실패한다.
        상품이 썩었으면 주문이 실패한다.
@@ -68,7 +68,7 @@
 4. 1부터 다시 반복 (한 두 싸이클 정도 돌리면 기능 완성)
 
 
-#### 동시성 제어 ?
+#### :pencil2: 동시성 제어 ?
 * ConcurrentHashMap을 이용, 각 유저별로 ReentrantLock을 관리하여 각 요청에 대해 순차적으로 잠금 획득
 * 동일 자원에 대한 동시성 제어 여부 테스트
   - CompletableFuture.allOf()를 이용한 로컬에서의 동시성 제어 테스트
