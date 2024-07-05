@@ -52,8 +52,8 @@
   * 테스트에 필요한 호출에 대해 미리 준비된 응답을 제공하는 객체
   * 입력에 대해 어떤 상태 를 반영하는 지에 초점을 맞춘 객체
 * Mock ( 행동 ) vs Stub ( 상태 )
-  * Mock 의 장점 = 테스트마다 응답을 원하는 대로 지정하기 쉽다. (But 재사용이 안됨, MockLibrary의 도움을 받음으로 인해 라이브러리에 의한 러닝커브 존재.)
-  * Stub 의 장점 = UserRepository 라는 걸 Stub 한 UserFakeRepository 라는 구현체가 있을 경우 UserRepository 를 쓰는 모든 단위 테스트에서 가져다 쓸 수 있다.
+  * Mock 의 장점 = 테스트마다 응답을 원하는 대로 지정하기 쉽다. (But 재사용이 안됨, `MockLibrary`의 도움을 받음으로 인해 라이브러리에 의한 러닝커브 존재.)
+  * Stub 의 장점 = `UserRepository` 라는 걸 Stub 한 `UserFakeRepository` 라는 구현체가 있을 경우 `UserRepository` 를 쓰는 모든 단위 테스트에서 가져다 쓸 수 있다.
 
 
 #### :pencil2: TDD 접근법 ?
